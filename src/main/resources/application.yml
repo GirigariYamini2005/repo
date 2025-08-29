@@ -1,0 +1,8 @@
+app:
+name: "John Doe"
+regNo: "REG12347"
+email: "john@example.com"
+generate-webhook-url: "https://bfhldevapigw.healthrx.co.in/hiring/generateWebhook/JAVA"
+fallback-submit-url: "https://bfhldevapigw.healthrx.co.in/hiring/testWebhook/JAVA"
+# If provided and non-empty, this overrides the auto-solver.
+final-query: ""
